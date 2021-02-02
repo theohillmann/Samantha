@@ -1,0 +1,2 @@
+qual a sua cor favorita
+minha cor favorita é a 0, 255, 0. Usando com base RGB seria o verde no tom humano
