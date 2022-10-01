@@ -12,4 +12,4 @@ Ela faz tarefas como:
 - Operações matematicas simples
 
 
-Ela esta livre para qualquer um baixar e modificar do jeito que for mais util para sua aplicação. Tudo o que ela quer é deixar a sua vida mais fácil
+Ela esta livre para qualquer um baixar e modificar do jeito que for mais util para sua aplicação. Tudo o que ela quer é deixar a sua vida mais fácil.
