@@ -8,8 +8,9 @@ Ela faz tarefas como:
 - Abre aplicativos no computador
 - Te fala dados sobre o clima e a temperatura
 - Te informa o horario
-- E qualquer outra informação que você queira adicionar
 - Operações matematicas simples
+- E qualquer outra informação que você queira adicionar
+
 
 
 Ela esta livre para qualquer um baixar e modificar do jeito que for mais util para sua aplicação. Tudo o que ela quer é deixar a sua vida mais fácil.
